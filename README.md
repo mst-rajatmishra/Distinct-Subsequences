@@ -16,7 +16,7 @@ rabbbit
 ```
 
 Example 2:
-`
+```
 Input: s = "babgbag", t = "bag"
 Output: 5
 Explanation:
@@ -26,10 +26,10 @@ babgbag
 babgbag
 babgbag
 babgbag
-` 
+``` 
 
 Constraints:
-`
+```
 1 <= s.length, t.length <= 1000
 s and t consist of English letters.
-`
+```
